@@ -32,4 +32,4 @@ ujson==1.35
 vyper-config==0.3.3
 watchdog==0.9.0
 wcwidth==0.1.7
-websockets==7.0
+websockets==9.1
