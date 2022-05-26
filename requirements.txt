@@ -28,7 +28,7 @@ six==1.12.0
 SQLAlchemy==1.2.15
 traitlets==4.3.2
 transitions==0.6.9
-ujson==1.35
+ujson==5.2.0
 vyper-config==0.3.3
 watchdog==0.9.0
 wcwidth==0.1.7
